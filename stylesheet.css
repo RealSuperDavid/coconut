@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'coconutregular';
-    src: url('coconut-webfont.woff2') format('woff2'),
-         url('coconut-webfont.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/RealSuperDavid/coconut/blob/master/coconut-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/RealSuperDavid/coconut/blob/master/coconut-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
